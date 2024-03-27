@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "com.unity.recorder": "5.1.0",
+    "com.unity.render-pipelines.high-definition": "17.0.2",
+    "com.unity.splines": "2.5.2",
+    "com.unity.timeline": "1.8.6",
+    "jp.keijiro.hdrpextra.sky": "1.0.0",
+    "jp.keijiro.klak.math": "2.1.0",
+    "jp.keijiro.klak.timeline.procedural-motion": "1.0.2"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ]
+}
