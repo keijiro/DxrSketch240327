@@ -87,7 +87,7 @@ MonoBehaviour:
       m_Leaf: Recordings
       m_ForceAssetFolder: 0
       m_AbsolutePath: 
-    m_FileName: <Recorder>_<Take>
+    m_FileName: Float
   encoderSettings:
     rid: 6478030681961660418
   captureAlpha: 0
@@ -96,8 +96,8 @@ MonoBehaviour:
     m_Selected: gameViewInputSettings
     gameViewInputSettings:
       m_OutputResolution:
-        m_CustomWidth: 1024
-        m_CustomHeight: 1024
+        m_CustomWidth: 2048
+        m_CustomHeight: 2048
         imageHeight: 2147483647
         maxSupportedHeight: 2160
         m_AspectRatio:
@@ -169,7 +169,7 @@ MonoBehaviour:
       type: {class: AccumulationSettings, ns: , asm: Unity.Recorder.Editor}
       data:
         captureAccumulation: 1
-        samples: 4
+        samples: 30
         shutterInterval: 1
         shutterProfileType: 0
         shutterProfileCurve:
@@ -262,10 +262,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 24
     m_ClipIn: 0
     m_Asset: {fileID: -6371051184945728282}
-    m_Duration: 120
+    m_Duration: 40
     m_TimeScale: 1
     m_ParentTrack: {fileID: -5871879656411979255}
     m_EaseInDuration: 0
@@ -1747,7 +1747,7 @@ MonoBehaviour:
   - {fileID: -3375233068182142032}
   m_FixedDuration: 0
   m_EditorSettings:
-    m_Framerate: 60
+    m_Framerate: 30
     m_ScenePreview: 1
   m_DurationMode: 0
   m_MarkerTrack: {fileID: 0}
