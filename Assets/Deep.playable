@@ -340,7 +340,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Chain 1
   - m_Version: 1
-    m_Start: 11.000000000000012
+    m_Start: 11.00000000000001
     m_ClipIn: 0
     m_Asset: {fileID: 7110112191946816056}
     m_Duration: 9
@@ -409,7 +409,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Chain 2
   - m_Version: 1
-    m_Start: 29.00000000000001
+    m_Start: 29.000000000000007
     m_ClipIn: 0
     m_Asset: {fileID: 6587111788514894461}
     m_Duration: 9
@@ -478,7 +478,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Chain 2
   - m_Version: 1
-    m_Start: 20.000000000000018
+    m_Start: 20.000000000000014
     m_ClipIn: 0
     m_Asset: {fileID: 6433974727325594891}
     m_Duration: 9
